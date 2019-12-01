@@ -8,7 +8,7 @@
   "profile": {
     "name": "ricchan"
   },
-  question_datas: [
+  "question_datas": [
     {
       id: 0,
       category: '仕事',
@@ -31,4 +31,5 @@
       date: ''
     }
   ]
+
 }
