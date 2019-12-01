@@ -11,24 +11,24 @@
   "question_datas": [
     {
       "id": 0,
-      "category": '仕事',
-      "question": '猫が家出して困っています',
-      "question_number": '1',
+      "category": "仕事",
+      "question": "猫が家出して困っています",
+      "question_number": "1",
       "date": ''
     },
     {
       "id": 1,
-      "category": '生活',
-      "question": 'りっちゃんが家出して困っています',
-      "question_number": '2',
-      "date": ''
+      "category": "生活",
+      "question": "りっちゃんが家出して困っています",
+      "question_number": "2",
+      "date": ""
     },
     {
       "id": 2,
-      "category": '哲学',
-      "question": 'りっちゃんは生活保護か？',
-      "question_number": '3',
-      "date": ''
+      "category": "哲学",
+      "question": "りっちゃんは生活保護か？",
+      "question_number": "3",
+      "date": ""
     }
   ]
 
