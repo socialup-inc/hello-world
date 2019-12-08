@@ -7,10 +7,16 @@
   ],
   "profile": {
     "name": "ricchan"
+    "id": ""
   },
   "question_nodes_info": [
     {
       "id": 0
+      "childs": [1, 2, 3],
+      "parents": "",
+      "text": "0番のノードだよ",
+      "layerNum": 0,
+      "posx": 0
     },
     {
       "id": 1,
@@ -160,5 +166,13 @@
       "question_number": "3",
       "date": ""
     }
+  ],
+  "friends": [
+    "id": "",
+    [0, 1, 2]
+  ],
+  "followers"[
+    "id": "",
+    [0, 1, 2]
   ]
 }
