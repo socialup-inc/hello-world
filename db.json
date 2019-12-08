@@ -7,7 +7,7 @@
   ],
   "profile": {
     "name": "ricchan",
-    "id": ""
+    "id": ''
   },
   "question_nodes_info": [
     {
@@ -167,12 +167,12 @@
       "date": ""
     }
   ],
-  "friends": [
+  "friend": [
     "id": '',
-    [0, 1, 2]
+    "follwers": [0, 1, 2]
   ],
-  "followers"[
+  "follower"[
     "id": '',
-    [0, 1, 2]
+    "follwers": [0, 1, 2]
   ]
 }
