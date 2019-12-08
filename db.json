@@ -11,11 +11,6 @@
   "question_nodes_info": [
     {
       "id": 0,
-      "childs": [1, 2, 3],
-      "parents": "undefined",
-      "text": "0番のノードだよ",
-      "layerNum": 0,
-      "posx": 0
     },
     {
       "id": 1,
