@@ -32,20 +32,20 @@
     }
   ]
   "question_nodes_info": [
-    {"id": 0, "childs": [1, 2, 3], "parents": undefined, "text": '0番のノードだよ\nてすとてすと', "layerNum": 0, "posx": 0},
-    {"id": 1, "childs": [4, 5, 14], "parents": 0, "text": '1番のノードだよ', "layerNum": 0, "posx": 0},
-    {"id": 2, "childs": [6, 7], "parents": 0, "text": '2番のノードだよ', "layerNum": 0, "posx": 0},
-    {"id": 3, "childs": [8, 9, 10], "parents": 0, "text": '3番のノードだよ', "layerNum": 0, "posx": 0},
-    {"id": 4, "childs": [11, 12], "parents": 1, "text": '4番のノードだよ', "layerNum": 0, "posx": 0},
-    {"id": 5, "childs": [13], "parents": 1, "text": '5番のノードだよ', "layerNum": 0, "posx": 0},
-    {"id": 6, "childs": [], "parents": 2, "text": '6番のノードだよ', "layerNum": 0, "posx": 0},
-    {"id": 7, "childs": [], "parents": 2, "text": '7番のノードだよ', "layerNum": 0, "posx": 0},
-    {"id": 8, "childs": [], "parents": 3, "text": '8番のノードだよ', "layerNum": 0, "posx": 0},
-    {"id": 9, "childs": [], "parents": 3, "text": '9番のノードだよ', "layerNum": 0, "posx": 0},
-    {"id": 10, "childs": [], "parents": 3, "text": '10番のノードだよ', "layerNum": 0, "posx": 0},
-    {"id": 11, "childs": [], "parents": 4, "text": '11番のノードだよ', "layerNum": 0, "posx": 0},
-    {"id": 12, "childs": [], "parents": 4, "text": '12番のノードだよ', "layerNum": 0, "posx": 0},
-    {"id": 13, "childs": [], "parents": 5, "text": '13番のノードだよ', "layerNum": 0, "posx": 0},
-    {"id": 14, "childs": [], "parents": 1, "text": '14番のノードだよ', "layerNum": 0, "posx": 0}
+    {"id": 0, "childs": [1, 2, 3], "parents": "undefined", "text": "0番のノードだよ\nてすとてすと", "layerNum": 0, "posx": 0},
+    {"id": 1, "childs": [4, 5, 14], "parents": 0, "text": "1番のノードだよ", "layerNum": 0, "posx": 0},
+    {"id": 2, "childs": [6, 7], "parents": 0, "text": "2番のノードだよ", "layerNum": 0, "posx": 0},
+    {"id": 3, "childs": [8, 9, 10], "parents": 0, "text": "3番のノードだよ", "layerNum": 0, "posx": 0},
+    {"id": 4, "childs": [11, 12], "parents": 1, "text": "4番のノードだよ", "layerNum": 0, "posx": 0},
+    {"id": 5, "childs": [13], "parents": 1, "text": "5番のノードだよ", "layerNum": 0, "posx": 0},
+    {"id": 6, "childs": [], "parents": 2, "text": "6番のノードだよ", "layerNum": 0, "posx": 0},
+    {"id": 7, "childs": [], "parents": 2, "text": "7番のノードだよ", "layerNum": 0, "posx": 0},
+    {"id": 8, "childs": [], "parents": 3, "text": "8番のノードだよ", "layerNum": 0, "posx": 0},
+    {"id": 9, "childs": [], "parents": 3, "text": "9番のノードだよ", "layerNum": 0, "posx": 0},
+    {"id": 10, "childs": [], "parents": 3, "text": "10番のノードだよ", "layerNum": 0, "posx": 0},
+    {"id": 11, "childs": [], "parents": 4, "text": "11番のノードだよ", "layerNum": 0, "posx": 0},
+    {"id": 12, "childs": [], "parents": 4, "text": "12番のノードだよ", "layerNum": 0, "posx": 0},
+    {"id": 13, "childs": [], "parents": 5, "text": "13番のノードだよ", "layerNum": 0, "posx": 0},
+    {"id": 14, "childs": [], "parents": 1, "text": "14番のノードだよ", "layerNum": 0, "posx": 0}
   ]
 }
