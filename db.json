@@ -6,7 +6,7 @@
     }
   ],
   "profile": {
-    "name": "ricchan"
+    "name": "ricchan",
     "id": ""
   },
   "question_nodes_info": [
@@ -168,11 +168,11 @@
     }
   ],
   "friends": [
-    "id": "",
+    "id": '',
     [0, 1, 2]
   ],
   "followers"[
-    "id": "",
+    "id": '',
     [0, 1, 2]
   ]
 }
