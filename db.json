@@ -30,7 +30,7 @@
       "question_number": "3",
       "date": ""
     }
-  ]
+  ],
   "question_nodes_info": [
     {"id": 0, "childs": [1, 2, 3], "parents": "undefined", "text": "0番のノードだよ\nてすとてすと", "layerNum": 0, "posx": 0},
     {"id": 1, "childs": [4, 5, 14], "parents": 0, "text": "1番のノードだよ", "layerNum": 0, "posx": 0},
