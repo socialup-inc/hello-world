@@ -166,13 +166,5 @@
       "question_number": "3",
       "date": ""
     }
-  ],
-  "friend": {
-    "id": 0,
-    "friends": [0, 1, 2]
-  },
-  "follower": {
-    "id": 1,
-    "follwers": [0, 1, 2]
-  }
+  ]
 }
