@@ -167,12 +167,12 @@
       "date": ""
     }
   ],
-  "friend": [
+  "friend": {
     "id": 0,
     "friends": [0, 1, 2]
-  ],
-  "follower": [
+  },
+  "follower": {
     "id": 1,
     "follwers": [0, 1, 2]
-  ]
+  }
 }
